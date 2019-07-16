@@ -1,0 +1,12 @@
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\bin\Debug\MyWindowsForms1.exe.config
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\bin\Debug\MyWindowsForms1.exe
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\bin\Debug\MyWindowsForms1.pdb
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.Calculator.resources
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.Properties.Resources.resources
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.csproj.GenerateResource.cache
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.csproj.CoreCompileInputs.cache
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.exe
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.pdb
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.Form2.resources
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.Form3.resources
+C:\Users\veranikalabovich\source\repos\MyWindowsForms1\MyWindowsForms1\obj\Debug\MyWindowsForms1.csprojAssemblyReference.cache
